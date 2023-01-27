@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\CompressFiles\bin\Debug\CompressFiles.exe.config
+C:\Users\spark\source\repos\CompressFiles\bin\Debug\CompressFiles.exe
+C:\Users\spark\source\repos\CompressFiles\bin\Debug\CompressFiles.pdb
+C:\Users\spark\source\repos\CompressFiles\obj\Debug\CompressFiles.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\CompressFiles\obj\Debug\CompressFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\CompressFiles\obj\Debug\CompressFiles.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\CompressFiles\obj\Debug\CompressFiles.exe
+C:\Users\spark\source\repos\CompressFiles\obj\Debug\CompressFiles.pdb
